@@ -116,7 +116,7 @@ console.log(a);   // world
 
 <br />
 
-## cosnt
+## const
 
 const는 블록 범위(block scope)의 범위를 가진 상수를 선언합니다.<br />
 var와 let으로 변수를 선언할 때, 변수에 값을 초기화(할당)하지 않은 상태로 선언할 수 있지만<br />
