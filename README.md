@@ -1,2 +1,8 @@
-# front-interview-questions-archive
-프론트엔드 개발자 면접 질문 아카이브
+# 🗣 프론트엔드 기술 면접 질문 아카이브
+
+- HTML & CSS
+- [JavaScript](https://github.com/dev-junehee/front-interview-questions-archive/tree/main/JavaScript%20)
+- React
+- Front-End
+- Computer Science
+- ETC.
