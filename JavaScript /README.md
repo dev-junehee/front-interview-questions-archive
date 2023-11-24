@@ -7,7 +7,7 @@
 - [TDZ란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/TDZ%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 - [클로저란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%81%B4%EB%A1%9C%EC%A0%80%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 - [렉시컬 환경, 스코프, 스코프 체인은 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%ED%99%98%EA%B2%BD%2C%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%EC%8A%A4%EC%BD%94%ED%94%84%20%EC%B2%B4%EC%9D%B8%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
-- [!!, delete, typeof 연산자란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%EC%9D%B4%EC%A4%91%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0%EC%9E%90%2C%20%EC%82%AD%EC%A0%9C%20%EC%97%B0%EC%82%B0%EC%9E%90%2C%20typeof%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
+- [!!, delete, typeof 연산자란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/!!,%20delete,%20typeof%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 
 <br />
 
