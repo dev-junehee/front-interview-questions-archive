@@ -12,7 +12,7 @@
 <br />
 
 ### 2. 비동기
-
+- [Async & Await에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/Async%20%26%20%20Await%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 <br />
 
 ### 3. OOP
