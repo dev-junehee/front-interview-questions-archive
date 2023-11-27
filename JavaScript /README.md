@@ -19,6 +19,9 @@
 <br />
 
 ### 3. OOP
+- [클래스란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
+- [클래스의 Public, Private, Protected에 대해 설명해 주세요.]()
+- [클래스의 Static에 대해 설명해 주세요.]()
 
 <br />
 
@@ -34,13 +37,8 @@
 
 <br />
 
-### 7. 클래스
-- [클래스란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
-- [클래스의 Public, Private, Protected에 대해 설명해 주세요.]()
-- [클래스의 Static에 대해 설명해 주세요.]()
-
-### 8. 이벤트
+### 7. 이벤트
 
 <br />
 
-### 9. ETC.
+### 8. ETC.
