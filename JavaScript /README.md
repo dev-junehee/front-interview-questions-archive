@@ -30,6 +30,7 @@
 <br />
 
 ### 5. 데이터
+- [얕은 복사와 깊은 복사에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
 <br />
 
