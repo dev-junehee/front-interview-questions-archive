@@ -35,6 +35,7 @@
 
 ### 6. 타입스크립트
 - [타입스크립트를 사용하는 이유는 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
+- [Type과 Interface의 차이점에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/Type%EA%B3%BC%20Interface%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
 <br />
 
