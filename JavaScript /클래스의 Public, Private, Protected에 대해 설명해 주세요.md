@@ -1,10 +1,10 @@
-## Mclass field
+## class field
 클래스 필드는 **클래스가 생성할 인스턴스의 프로퍼티를 의미**합니다.
 
 ```jsx
 class Person {
 	name = 'Olive';
-
+	
 	method() {
 		return this.name;
 	}
@@ -103,9 +103,31 @@ class Person {
 
 <br />
 
+## Static
+프로토타입이 아닌 클래스 자체에 메서드와 프로퍼티를 정의할 수 있는데, 이것을 **정적 메서드**와 **정적 프로퍼티**라고 하며 `static` 키워드를 사용해 생성합니다.
+
+```jsx
+class Person {
+	static name = 'Kim';
+
+	static #age = 100;
+
+	static introduce() {
+		return `My name is ${this.name}, and I'm ${this.#age} years old.`
+	}
+}
+
+console.log(Person.introduce());
+// My name is Kim, and I'm 100 years old.
+```
+
+<br />
+
 ## 정리
 
 - 클래스 필드는 클래스가 생성할 인스턴스의 프로퍼티를 의미합니다.
 - public은 클래스 내부 혹은 외부 어디서든 접근할 수 있으며, 모든 필드값은 기본으로 public합니다.
 - private은 클래스 내부에서만 접근할 수 있으며 프리픽스로 `#`을 붙여 작성합니다.
 - protected는 클래스 자신과 자식 클래스에서만 접근할 수 있으며 프리픽스로 `_`를 붙여 사용합니다. protected는 자바스크립트 정식 문법이 아닌 개발자 사이의 암묵적 약속입니다.
+- static은 프로토타입이 아닌 클래스 자체에 정적 데이터를 정의할 수 있으며 static 키워드를 사용합니다.
+- static을 통해 정의할 수 있었던 것은 정적 메서드 뿐이었으나 현재 static public, static private 필드, static private 메서드를 정의할 수 있는 표준 사양이 제안되어 있으며 크롬과 Node.js에서 이미 사용할 수 있습니다.
