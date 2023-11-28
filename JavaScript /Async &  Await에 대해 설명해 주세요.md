@@ -25,7 +25,7 @@ Promise { <fulfilled>: undefined }
 
 <br />
 
-## await
+## Await
 
 await는 async 키워드로 감싸진 함수, 즉 async 함수 내에서만 작동합니다.
 프로미스가 settled 상태(비동기 처리가 수행되어 성공 또는 실패를 호출한 상태)가 되기를 기다리다가 settled 상태가 되면 프로미스가 resolve한 처리 결과를 반환합니다.
