@@ -130,5 +130,5 @@ console.log(Person.introduce());
 - public은 클래스 내부 혹은 외부 어디서든 접근할 수 있으며, 모든 필드값은 기본으로 public합니다.
 - private은 클래스 내부에서만 접근할 수 있으며 프리픽스로 `#`을 붙여 작성합니다.
 - protected는 클래스 자신과 자식 클래스에서만 접근할 수 있으며 프리픽스로 `_`를 붙여 사용합니다. protected는 자바스크립트 정식 문법이 아닌 개발자 사이의 암묵적 약속입니다.
-- static은 프로토타입이 아닌 클래스 자체에 정적 데이터를 정의할 수 있으며 static 키워드를 사용합니다.
+- static은 프로토타입이 아닌 클래스 자체에 정적 데이터를 정의할 수 있으며 `static` 키워드를 사용합니다.
 - static을 통해 정의할 수 있었던 것은 정적 메서드 뿐이었으나 현재 static public, static private 필드, static private 메서드를 정의할 수 있는 표준 사양이 제안되어 있으며 크롬과 Node.js에서 이미 사용할 수 있습니다.
