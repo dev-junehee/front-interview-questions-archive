@@ -4,11 +4,12 @@
 ```jsx
 class Person {
 	name = 'Olive';
-	
+
 	method() {
 		return this.name;
 	}
 }
+
 ```
 
 원래 클래스 바디에서는 메소드만 정의 가능하고 프로퍼티를 정의할 경우 `Syntax Errorr`가 발생했으나, 다른 객체 지향 언어와 같이 자바스크립트에서도 클래스 필드를 정의할 수 있도록 ECMAScript에 클래스 필드 문법이 제안되어 있으며 Chrome과 Node.js에서 선제적으로 구현해두어 현재는 에러가 발생하지 않고 클래스 필드를 클래스 바디에 정의할 수 있습니다.
