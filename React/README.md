@@ -5,9 +5,11 @@
 - 
 
 ### 2. Components
-- [useMemo와 useCallback에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/React/useMemo%EC%99%80%20useCallback%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+- [제어 컴포넌트와 비제어 컴포넌트에 대해 설명해 주세요.]()
+- [React.Fragment에 대해 설명해 주세요.]()
 
 ### 3. Hooks
+- [useMemo와 useCallback에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/React/useMemo%EC%99%80%20useCallback%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 - [Pure Component에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/React/Pure%20Component%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
 ### 4. Props
