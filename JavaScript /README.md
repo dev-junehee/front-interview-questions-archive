@@ -28,7 +28,7 @@
 <br />
 
 ### 4. 함수
-- [함수의 선언식과 표현식의 차이에 대해 설명해 주세요.]()
+- [함수의 선언식과 표현식의 차이에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%95%A8%EC%88%98%EC%9D%98%20%EC%84%A0%EC%96%B8%EC%8B%9D%EA%B3%BC%20%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 - [map, forEach, reduce에 대해 설명해 주세요.]()
 
 <br />
