@@ -23,6 +23,7 @@
 ### 3. OOP
 - [클래스란 무엇인가요?](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 - [클래스의 Public, Private, Protected, Static에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20Public%2C%20Private%2C%20Protected%2C%20Static%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+- [태스크 큐와 마이크로태스크 큐에 대해 설명해 주세요.](https://github.com/dev-junehee/front-interview-questions-archive/blob/main/JavaScript%20/%ED%83%9C%EC%8A%A4%ED%81%AC%20%ED%81%90%EC%99%80%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%ED%83%9C%EC%8A%A4%ED%81%AC%20%ED%81%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
 <br />
 
